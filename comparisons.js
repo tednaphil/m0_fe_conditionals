@@ -38,12 +38,15 @@ var friends = 6;
 var siblings = 2;
 console.log(friends > siblings);
 // YOU DO: Explain.
+// This code will log the result of the comparison: Is friends greater than siblings?
+//This should log: true
 
 var attendees = 9;
 var meals = 8;
 console.log(attendees !== meals);
 // YOU DO: Explain.
-
+// This code will log the result of the comparison: Is attendees not equal to meals?
+//This should log: true
 
 // #-------------------
 // PART 3: Logical Operators
